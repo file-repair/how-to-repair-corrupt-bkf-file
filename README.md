@@ -20,4 +20,6 @@ Key Features of Stellar Phoenix BKF Recovery:
 - Supports corrupt BKF files created with Backup Exec by VERITAS Software.
 - Supports Windows 7, Vista, XP, 2003, and 2000.
 
+http://www.stellarinfo.com/sp-images/box-image/bkf-recvoeruysef.jpg
+
 Get more details here: http://www.stellarinfo.com/bkf-recovery.htm
