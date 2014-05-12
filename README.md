@@ -11,7 +11,7 @@ Stellar Phoenix BKF Recovery software is a competent BKF recovery tool that can 
 You can repair corrupted file in just three steps; select, scan and repair. The demonstration version of the software allows you to see the preview of recoverable files. It is available to download free, but to save the repaired file you need to purchase and activate the software.
 
 Key Features of Stellar Phoenix BKF Recovery:
----------------------------------------------
+-
 
 - Searches file automatically in your system.
 - It allows you to see preview of recoverable file.
