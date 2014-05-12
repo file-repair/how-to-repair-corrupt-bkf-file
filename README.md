@@ -12,7 +12,6 @@ You can repair corrupted file in just three steps; select, scan and repair. The 
 
 Key Features of Stellar Phoenix BKF Recovery:
 -
-
 - Searches file automatically in your system.
 - It allows you to see preview of recoverable file.
 - You can save file at your specified location.
